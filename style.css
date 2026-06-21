@@ -83,6 +83,10 @@ img {
   opacity: 0.88;
 }
 
+.self-introduction {
+  padding-left: 0.6em;
+}
+
 .site-title {
   margin: 0;
   font-weight: 500;
