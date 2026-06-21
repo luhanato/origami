@@ -132,6 +132,10 @@ img {
   .site-header {
     padding: 48px 20px 40px;
   }
+
+  .self-introduction {
+    padding-left: 1.1em;
+  }
 }
 
 .card {
